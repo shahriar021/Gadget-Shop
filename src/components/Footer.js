@@ -49,6 +49,7 @@ export default function Footer() {
               <li className="nav-item mb-2">
                 <Link href="#" className="nav-link p-0 text-muted">
                   sector 3, Uttara, Dhaka
+                  24/7
                 </Link>
               </li>
             </ul>
