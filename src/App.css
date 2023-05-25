@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+#carhg {
+  max-height: 200px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +39,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.logo {
+  width: 80px;
+  float: left;
+  border-radius: 170%;
+
+  margin-left: 20px;
+
 }
